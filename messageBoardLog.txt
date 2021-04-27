@@ -1,4 +1,4 @@
 
 
 {"identity":" computer","_class":"PublishRequest","message":{"from":" computer","_class":"Message","body":"no","when":"Tue Apr 27 18:36:38 BST 2021"}}
-{"identity":" computer","_class":"PublishRequest","message":{"from":" computer","_class":"Message","body":"fuk u","when":"Tue Apr 27 18:36:43 BST 2021"}}
+{"identity":" computer","_class":"PublishRequest","message":{"from":" computer","_class":"Message","body":"u","when":"Tue Apr 27 18:36:43 BST 2021"}}
